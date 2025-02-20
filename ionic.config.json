@@ -1,0 +1,7 @@
+{
+  "name": "ZikirUygulamasi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
