@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "name": "Er-Rahman",
+    "text": "Rahmeti bol, merhamet eden. Bu ismi şerif, Allah'ın sonsuz rahmetini ifade eder.",
+    "amac": "Allah'ın rahmetini celbetmek ve bol bereket istemek için okunur.",
+    "zikirSayisi": 298
+  },
+  {
+    "id": 2,
+    "name": "Er-Rahim",
+    "text": "Merhametli, bağışlayıcı. Bu isim, Allah'ın kullarına karşı şefkatini gösterir.",
+    "amac": "Bağışlanma ve merhamet dilemek için okunur.",
+    "zikirSayisi": 258
+  },
+  {
+    "id": 3,
+    "name": "El-Melik",
+    "text": "Her şeyin sahibi ve hükümdarı. Bu isim, Allah'ın mutlak hakimiyetini ifade eder.",
+    "amac": "Allah'ın yardımını ve korumasını istemek için okunur.",
+    "zikirSayisi": 212
+  },
+  {
+    "id": 4,
+    "name": "El-Kuddüs",
+    "text": "Her türlü kusurdan uzak, tertemiz. Bu isim, Allah'ın mükemmelliğini vurgular.",
+    "amac": "Kalbi temizlemek ve manevi arınma için okunur.",
+    "zikirSayisi": 170
+  },
+  {
+    "id": 5,
+    "name": "Es-Selam",
+    "text": "Her türlü kusur ve afetten uzak, selamet veren. Bu isim, Allah'ın güvenliği sağladığını gösterir.",
+    "amac": "Huzur ve güvenlik için okunur.",
+    "zikirSayisi": 131
+  },
+  {
+    "id": 6,
+    "name": "El-Mü'min",
+    "text": "Güven veren, iman edenlerin koruyucusu. Bu isim, Allah'ın kullarına güven verdiğini ifade eder.",
+    "amac": "Güven ve emniyet istemek için okunur.",
+    "zikirSayisi": 136
+  },
+  {
+    "id": 7,
+    "name": "El-Müheymin",
+    "text": "Her şeyi gözetip koruyan. Bu isim, Allah'ın her şeyi kontrol ettiğini gösterir.",
+    "amac": "Korunma ve gözetim altında olmak için okunur.",
+    "zikirSayisi": 145
+  },
+  {
+    "id": 8,
+    "name": "El-Aziz",
+    "text": "Yenilmez, izzet sahibi. Bu isim, Allah'ın gücünü ve üstünlüğünü ifade eder.",
+    "amac": "Güç ve izzet istemek için okunur.",
+    "zikirSayisi": 94
+  },
+  {
+    "id": 9,
+    "name": "El-Cebbar",
+    "text": "Dilediğini yapan, zorlayıcı. Bu isim, Allah'ın her şeye gücünün yettiğini gösterir.",
+    "amac": "Zorlukları aşmak ve güçlenmek için okunur.",
+    "zikirSayisi": 206
+  },
+  {
+    "id": 10,
+    "name": "El-Mütekebbir",
+    "text": "Büyüklükte eşi olmayan. Bu isim, Allah'ın azametini ve kibriyasını ifade eder.",
+    "amac": "Kibir ve gururdan arınmak için okunur.",
+    "zikirSayisi": 662
+  },
+  {
+    "id": 11,
+    "name": "El-Halık",
+    "text": "Yaratan, yoktan var eden. Bu isim, Allah'ın yaratıcılığını vurgular.",
+    "amac": "Yaratıcı gücü hatırlamak ve şükretmek için okunur.",
+    "zikirSayisi": 731
+  },
+  {
+    "id": 12,
+    "name": "El-Bari",
+    "text": "Her şeyi kusursuz yaratan. Bu isim, Allah'ın yaratışının mükemmelliğini gösterir.",
+    "amac": "Kusursuz bir hayat için okunur.",
+    "zikirSayisi": 213
+  },
+  {
+    "id": 13,
+    "name": "El-Musavvir",
+    "text": "Her şeye şekil veren. Bu isim, Allah'ın her şeyi en güzel şekilde tasarladığını ifade eder.",
+    "amac": "Güzellik ve estetik için okunur.",
+    "zikirSayisi": 336
+  },
+  {
+    "id": 14,
+    "name": "El-Gaffar",
+    "text": "Günahları örten, bağışlayan. Bu isim, Allah'ın affediciliğini gösterir.",
+    "amac": "Günahların bağışlanması için okunur.",
+    "zikirSayisi": 1281
+  },
+  {
+    "id": 15,
+    "name": "El-Kahhar",
+    "text": "Her şeye galip gelen. Bu isim, Allah'ın her şeyi yenebilecek güçte olduğunu ifade eder.",
+    "amac": "Zorlukları aşmak için okunur.",
+    "zikirSayisi": 306
+  },
+  {
+    "id": 16,
+    "name": "El-Vehhab",
+    "text": "Karşılıksız veren, ihsan eden. Bu isim, Allah'ın cömertliğini gösterir.",
+    "amac": "Bol rızık ve ihsan istemek için okunur.",
+    "zikirSayisi": 14
+  },
+  {
+    "id": 17,
+    "name": "Er-Rezzak",
+    "text": "Rızık veren, besleyen. Bu isim, Allah'ın tüm canlıların rızkını verdiğini ifade eder.",
+    "amac": "Rızık artışı için okunur.",
+    "zikirSayisi": 308
+  },
+  {
+    "id": 18,
+    "name": "El-Fettah",
+    "text": "Her türlü zorluğu açan, fetheden. Bu isim, Allah'ın kapalı kapıları açtığını gösterir.",
+    "amac": "Zorlukları aşmak ve kapalı kapıları açmak için okunur.",
+    "zikirSayisi": 489
+  },
+  {
+    "id": 19,
+    "name": "El-Alim",
+    "text": "Her şeyi bilen. Bu isim, Allah'ın ilminin sonsuz olduğunu ifade eder.",
+    "amac": "İlim ve bilgi artışı için okunur.",
+    "zikirSayisi": 150
+  },
+  {
+    "id": 20,
+    "name": "El-Kabıd",
+    "text": "Dilediğini sıkan, daraltan. Bu isim, Allah'ın her şeye gücünün yettiğini gösterir.",
+    "amac": "Sıkıntıları hafifletmek için okunur.",
+    "zikirSayisi": 903
+  },
+  {
+    "id": 21,
+    "name": "El-Basit",
+    "text": "Dilediğini genişleten, bolluk veren. Bu isim, Allah'ın lütfunu ifade eder.",
+    "amac": "Bolluk ve bereket için okunur.",
+    "zikirSayisi": 72
+  },
+  {
+    "id": 22,
+    "name": "El-Hafıd",
+    "text": "Dilediğini alçaltan. Bu isim, Allah'ın adaletini gösterir.",
+    "amac": "Kibir ve gururdan arınmak için okunur.",
+    "zikirSayisi": 1481
+  },
+  {
+    "id": 23,
+    "name": "Er-Rafi",
+    "text": "Dilediğini yükselten. Bu isim, Allah'ın lütfunu ve adaletini ifade eder.",
+    "amac": "Yükselmek ve şeref kazanmak için okunur.",
+    "zikirSayisi": 351
+  },
+  {
+    "id": 24,
+    "name": "El-Muiz",
+    "text": "Dilediğini aziz eden, şereflendiren. Bu isim, Allah'ın kullarına değer verdiğini gösterir.",
+    "amac": "Şeref ve izzet kazanmak için okunur.",
+    "zikirSayisi": 117
+  },
+  {
+    "id": 25,
+    "name": "El-Müzil",
+    "text": "Dilediğini zelil eden. Bu isim, Allah'ın adaletini ifade eder.",
+    "amac": "Zalimlerin zelil olması için okunur.",
+    "zikirSayisi": 770
+  },
+  {
+    "id": 26,
+    "name": "Es-Semi",
+    "text": "Her şeyi işiten. Bu isim, Allah'ın her şeyi duyduğunu gösterir.",
+    "amac": "Duaların kabulü için okunur.",
+    "zikirSayisi": 180
+  },
+  {
+    "id": 27,
+    "name": "El-Basir",
+    "text": "Her şeyi gören. Bu isim, Allah'ın her şeyi gördüğünü ifade eder.",
+    "amac": "Gizli işlerin açığa çıkmaması için okunur.",
+    "zikirSayisi": 302
+  },
+  {
+    "id": 28,
+    "name": "El-Hakem",
+    "text": "Mutlak hüküm sahibi. Bu isim, Allah'ın adaletini ve hükmünü gösterir.",
+    "amac": "Adalet ve hüküm istemek için okunur.",
+    "zikirSayisi": 68
+  },
+  {
+    "id": 29,
+    "name": "El-Adl",
+    "text": "Mutlak adil olan. Bu isim, Allah'ın adaletini ifade eder.",
+    "amac": "Adalet ve eşitlik için okunur.",
+    "zikirSayisi": 104
+  },
+  {
+    "id": 30,
+    "name": "El-Latif",
+    "text": "En ince işleri bilen, lütufkâr. Bu isim, Allah'ın inceliğini ve lütfunu gösterir.",
+    "amac": "İnce işlerde başarı için okunur.",
+    "zikirSayisi": 129
+  },
+  {
+    "id": 31,
+    "name": "El-Habir",
+    "text": "Her şeyden haberdar olan. Bu isim, Allah'ın her şeyi bildiğini ifade eder.",
+    "amac": "Gizli işlerin açığa çıkmaması için okunur.",
+    "zikirSayisi": 812
+  },
+  {
+    "id": 32,
+    "name": "El-Halim",
+    "text": "Cezalandırmada acele etmeyen, yumuşak davranan. Bu isim, Allah'ın sabrını gösterir.",
+    "amac": "Sabır ve sükunet için okunur.",
+    "zikirSayisi": 88
+  },
+  {
+    "id": 33,
+    "name": "El-Azim",
+    "text": "Büyüklükte eşi olmayan. Bu isim, Allah'ın azametini ifade eder.",
+    "amac": "Büyük işlerde başarı için okunur.",
+    "zikirSayisi": 1020
+  },
+  {
+    "id": 34,
+    "name": "El-Gafur",
+    "text": "Çok bağışlayıcı. Bu isim, Allah'ın affediciliğini gösterir.",
+    "amac": "Günahların bağışlanması için okunur.",
+    "zikirSayisi": 1286
+  },
+  {
+    "id": 35,
+    "name": "Eş-Şekur",
+    "text": "İyilikleri bolca ödüllendiren. Bu isim, Allah'ın şükrünü ifade eder.",
+    "amac": "Şükür ve minnet için okunur.",
+    "zikirSayisi": 526
+  },
+  {
+    "id": 36,
+    "name": "El-Ali",
+    "text": "Yücelerde olan, şanı yüce. Bu isim, Allah'ın yüceliğini gösterir.",
+    "amac": "Yücelik ve şeref için okunur.",
+    "zikirSayisi": 110
+  },
+  {
+    "id": 37,
+    "name": "El-Kebir",
+    "text": "Büyüklükte eşi olmayan. Bu isim, Allah'ın azametini ifade eder.",
+    "amac": "Büyük işlerde başarı için okunur.",
+    "zikirSayisi": 232
+  },
+  {
+    "id": 38,
+    "name": "El-Hafız",
+    "text": "Her şeyi koruyan. Bu isim, Allah'ın koruyuculuğunu gösterir.",
+    "amac": "Korunma ve güvenlik için okunur.",
+    "zikirSayisi": 998
+  },
+  {
+    "id": 39,
+    "name": "El-Mukit",
+    "text": "Her şeyin rızkını veren. Bu isim, Allah'ın rızıklandırıcılığını ifade eder.",
+    "amac": "Rızık artışı için okunur.",
+    "zikirSayisi": 550
+  },
+  {
+    "id": 40,
+    "name": "El-Hasib",
+    "text": "Her şeyin hesabını gören. Bu isim, Allah'ın adaletini gösterir.",
+    "amac": "Hesap günü için hazırlık yapmak için okunur.",
+    "zikirSayisi": 80
+  },
+  {
+    "id": 41,
+    "name": "El-Celil",
+    "text": "Büyüklük ve azamet sahibi. Bu isim, Allah'ın yüceliğini ifade eder.",
+    "amac": "Yücelik ve şeref için okunur.",
+    "zikirSayisi": 73
+  },
+  {
+    "id": 42,
+    "name": "El-Kerim",
+    "text": "Çok cömert, lütufkâr. Bu isim, Allah'ın cömertliğini gösterir.",
+    "amac": "Cömertlik ve lütuf için okunur.",
+    "zikirSayisi": 270
+  },
+  {
+    "id": 43,
+    "name": "Er-Rakib",
+    "text": "Her şeyi gözetleyen. Bu isim, Allah'ın her şeyi gördüğünü ifade eder.",
+    "amac": "Gözetim altında olmak için okunur.",
+    "zikirSayisi": 312
+  },
+  {
+    "id": 44,
+    "name": "El-Mucib",
+    "text": "Duaları kabul eden. Bu isim, Allah'ın dualara icabet ettiğini gösterir.",
+    "amac": "Duaların kabulü için okunur.",
+    "zikirSayisi": 55
+  },
+  {
+    "id": 45,
+    "name": "El-Vasi",
+    "text": "Lütfu ve rahmeti geniş olan. Bu isim, Allah'ın büyüklüğünü ifade eder.",
+    "amac": "Bolluk ve bereket için okunur.",
+    "zikirSayisi": 137
+  },
+  {
+    "id": 46,
+    "name": "El-Hakim",
+    "text": "Her işi hikmetli olan. Bu isim, Allah'ın hikmetini gösterir.",
+    "amac": "Hikmet ve bilgelik için okunur.",
+    "zikirSayisi": 78
+  },
+  {
+    "id": 47,
+    "name": "El-Vedud",
+    "text": "Sevgi ve merhamet sahibi. Bu isim, Allah'ın kullarına olan sevgisini ifade eder.",
+    "amac": "Sevgi ve muhabbet için okunur.",
+    "zikirSayisi": 20
+  },
+  {
+    "id": 48,
+    "name": "El-Mecid",
+    "text": "Şanı yüce, şerefli. Bu isim, Allah'ın yüceliğini gösterir.",
+    "amac": "Şeref ve izzet için okunur.",
+    "zikirSayisi": 48
+  },
+  {
+    "id": 49,
+    "name": "El-Bais",
+    "text": "Ölüleri dirilten. Bu isim, Allah'ın diriltici gücünü ifade eder.",
+    "amac": "Diriliş ve yeniden doğuş için okunur.",
+    "zikirSayisi": 573
+  },
+  {
+    "id": 50,
+    "name": "Eş-Şehid",
+    "text": "Her şeye şahit olan. Bu isim, Allah'ın her şeyi gördüğünü gösterir.",
+    "amac": "Şahitlik ve adalet için okunur.",
+    "zikirSayisi": 319
+  },
+  {
+    "id": 51,
+    "name": "El-Hakk",
+    "text": "Mutlak hakikat. Bu isim, Allah'ın gerçekliğini ifade eder.",
+    "amac": "Hakikat ve doğruluk için okunur.",
+    "zikirSayisi": 464
+  },
+  {
+    "id": 52,
+    "name": "El-Vekil",
+    "text": "Her şeyin güvenilir sahibi. Bu isim, Allah'ın güvenilirliğini gösterir.",
+    "amac": "Güven ve emniyet için okunur.",
+    "zikirSayisi": 66
+  },
+  {
+    "id": 53,
+    "name": "El-Kavi",
+    "text": "Çok güçlü. Bu isim, Allah'ın kudretini ifade eder.",
+    "amac": "Güç ve kuvvet için okunur.",
+    "zikirSayisi": 117
+  },
+  {
+    "id": 54,
+    "name": "El-Metin",
+    "text": "Çok sağlam, güçlü. Bu isim, Allah'ın kudretini gösterir.",
+    "amac": "Dayanıklılık ve güç için okunur.",
+    "zikirSayisi": 500
+  },
+  {
+    "id": 55,
+    "name": "El-Veli",
+    "text": "Dost, yardımcı. Bu isim, Allah'ın kullarına yakınlığını ifade eder.",
+    "amac": "Yardım ve destek için okunur.",
+    "zikirSayisi": 47
+  },
+  {
+    "id": 56,
+    "name": "El-Hamid",
+    "text": "Övülmeye layık olan. Bu isim, Allah'ın övgüye layık olduğunu gösterir.",
+    "amac": "Şükür ve övgü için okunur.",
+    "zikirSayisi": 62
+  },
+  {
+    "id": 57,
+    "name": "El-Muhsi",
+    "text": "Her şeyin sayısını bilen. Bu isim, Allah'ın ilmini ifade eder.",
+    "amac": "Hesap ve muhasebe için okunur.",
+    "zikirSayisi": 148
+  },
+  {
+    "id": 58,
+    "name": "El-Mübdi",
+    "text": "Yoktan var eden. Bu isim, Allah'ın yaratıcılığını gösterir.",
+    "amac": "Yaratıcılık ve yenilik için okunur.",
+    "zikirSayisi": 56
+  },
+  {
+    "id": 59,
+    "name": "El-Muid",
+    "text": "Yeniden dirilten. Bu isim, Allah'ın diriltici gücünü ifade eder.",
+    "amac": "Diriliş ve yeniden doğuş için okunur.",
+    "zikirSayisi": 124
+  },
+  {
+    "id": 60,
+    "name": "El-Muhyi",
+    "text": "Hayat veren. Bu isim, Allah'ın hayat verici gücünü gösterir.",
+    "amac": "Hayat ve canlılık için okunur.",
+    "zikirSayisi": 68
+  },
+  {
+    "id": 61,
+    "name": "El-Mümit",
+    "text": "Ölümü yaratan. Bu isim, Allah'ın her şeye gücünün yettiğini ifade eder.",
+    "amac": "Ölüm ve ötesi için okunur.",
+    "zikirSayisi": 490
+  },
+  {
+    "id": 62,
+    "name": "El-Hayy",
+    "text": "Diri, canlı. Bu isim, Allah'ın ebedi hayat sahibi olduğunu gösterir.",
+    "amac": "Hayat ve canlılık için okunur.",
+    "zikirSayisi": 18
+  },
+  {
+    "id": 63,
+    "name": "El-Kayyum",
+    "text": "Her şeyi ayakta tutan. Bu isim, Allah'ın her şeyi yönettiğini ifade eder.",
+    "amac": "Denge ve istikrar için okunur.",
+    "zikirSayisi": 156
+  },
+  {
+    "id": 64,
+    "name": "El-Vacid",
+    "text": "Hiçbir şeye muhtaç olmayan. Bu isim, Allah'ın müstağniliğini gösterir.",
+    "amac": "İhtiyaçların giderilmesi için okunur.",
+    "zikirSayisi": 14
+  },
+  {
+    "id": 65,
+    "name": "El-Macid",
+    "text": "Şanı yüce, şerefli. Bu isim, Allah'ın yüceliğini ifade eder.",
+    "amac": "Şeref ve izzet için okunur.",
+    "zikirSayisi": 48
+  },
+  {
+    "id": 66,
+    "name": "El-Vahid",
+    "text": "Tek olan. Bu isim, Allah'ın birliğini gösterir.",
+    "amac": "Tevhid inancını güçlendirmek için okunur.",
+    "zikirSayisi": 19
+  },
+  {
+    "id": 67,
+    "name": "Es-Samed",
+    "text": "Her şeyin kendisine muhtaç olduğu. Bu isim, Allah'ın müstağniliğini ifade eder.",
+    "amac": "İhtiyaçların giderilmesi için okunur.",
+    "zikirSayisi": 134
+  },
+  {
+    "id": 68,
+    "name": "El-Kadir",
+    "text": "Her şeye gücü yeten. Bu isim, Allah'ın kudretini gösterir.",
+    "amac": "Güç ve kuvvet için okunur.",
+    "zikirSayisi": 305
+  },
+  {
+    "id": 69,
+    "name": "El-Muktedir",
+    "text": "Dilediğini yapmaya gücü yeten. Bu isim, Allah'ın kudretini ifade eder.",
+    "amac": "Güç ve kudret için okunur.",
+    "zikirSayisi": 744
+  },
+  {
+    "id": 70,
+    "name": "El-Mukaddim",
+    "text": "Dilediğini öne alan. Bu isim, Allah'ın hikmetini gösterir.",
+    "amac": "Öncelik ve tercih için okunur.",
+    "zikirSayisi": 184
+  },
+  {
+    "id": 71,
+    "name": "El-Muahhir",
+    "text": "Dilediğini erteleyen. Bu isim, Allah'ın hikmetini ifade eder.",
+    "amac": "Erteleme ve sabır için okunur.",
+    "zikirSayisi": 847
+  },
+  {
+    "id": 72,
+    "name": "El-Evvel",
+    "text": "Her şeyden önce var olan. Bu isim, Allah'ın ezeliliğini gösterir.",
+    "amac": "Başlangıç ve öncelik için okunur.",
+    "zikirSayisi": 37
+  },
+  {
+    "id": 73,
+    "name": "El-Ahir",
+    "text": "Her şeyden sonra var olacak olan. Bu isim, Allah'ın ebediliğini ifade eder.",
+    "amac": "Son ve ebediyet için okunur.",
+    "zikirSayisi": 801
+  },
+  {
+    "id": 74,
+    "name": "Ez-Zahir",
+    "text": "Varlığı her şeyden aşikâr olan. Bu isim, Allah'ın varlığını gösterir.",
+    "amac": "Aşikarlık ve açıklık için okunur.",
+    "zikirSayisi": 1106
+  },
+  {
+    "id": 75,
+    "name": "El-Batın",
+    "text": "Gizli olan. Bu isim, Allah'ın gizliliğini ifade eder.",
+    "amac": "Gizli işlerin açığa çıkmaması için okunur.",
+    "zikirSayisi": 62
+  },
+  {
+    "id": 76,
+    "name": "El-Vali",
+    "text": "Her şeyin yöneticisi. Bu isim, Allah'ın hakimiyetini gösterir.",
+    "amac": "Yönetim ve idare için okunur.",
+    "zikirSayisi": 47
+  },
+  {
+    "id": 77,
+    "name": "El-Müteali",
+    "text": "Yücelerde olan. Bu isim, Allah'ın yüceliğini ifade eder.",
+    "amac": "Yücelik ve şeref için okunur.",
+    "zikirSayisi": 551
+  },
+  {
+    "id": 78,
+    "name": "El-Berr",
+    "text": "İyilik ve lütuf sahibi. Bu isim, Allah'ın iyiliğini gösterir.",
+    "amac": "İyilik ve lütuf için okunur.",
+    "zikirSayisi": 202
+  },
+  {
+    "id": 79,
+    "name": "Et-Tevvab",
+    "text": "Tövbeleri kabul eden. Bu isim, Allah'ın affediciliğini ifade eder.",
+    "amac": "Tövbe ve bağışlanma için okunur.",
+    "zikirSayisi": 409
+  },
+  {
+    "id": 80,
+    "name": "El-Müntakim",
+    "text": "Suçluları cezalandıran. Bu isim, Allah'ın adaletini gösterir.",
+    "amac": "Adalet ve ceza için okunur.",
+    "zikirSayisi": 630
+  },
+  {
+    "id": 81,
+    "name": "El-Afuv",
+    "text": "Affı bol olan. Bu isim, Allah'ın affediciliğini ifade eder.",
+    "amac": "Affedilme ve bağışlanma için okunur.",
+    "zikirSayisi": 156
+  },
+  {
+    "id": 82,
+    "name": "Er-Rauf",
+    "text": "Çok merhametli. Bu isim, Allah'ın şefkatini gösterir.",
+    "amac": "Şefkat ve merhamet için okunur.",
+    "zikirSayisi": 286
+  },
+  {
+    "id": 83,
+    "name": "Malik-ül Mülk",
+    "text": "Mülkün sahibi. Bu isim, Allah'ın hakimiyetini ifade eder.",
+    "amac": "Mülk ve hakimiyet için okunur.",
+    "zikirSayisi": 212
+  },
+  {
+    "id": 84,
+    "name": "Zül-Celali vel İkram",
+    "text": "Celal ve ikram sahibi. Bu isim, Allah'ın yüceliğini ve cömertliğini gösterir.",
+    "amac": "Celal ve ikram için okunur.",
+    "zikirSayisi": 1056
+  },
+  {
+    "id": 85,
+    "name": "El-Muksit",
+    "text": "Adaletle hükmeden. Bu isim, Allah'ın adaletini ifade eder.",
+    "amac": "Adalet ve eşitlik için okunur.",
+    "zikirSayisi": 209
+  },
+  {
+    "id": 86,
+    "name": "El-Cami",
+    "text": "Her şeyi toplayan. Bu isim, Allah'ın kudretini gösterir.",
+    "amac": "Toplanma ve birleşme için okunur.",
+    "zikirSayisi": 114
+  },
+  {
+    "id": 87,
+    "name": "El-Gani",
+    "text": "Hiçbir şeye muhtaç olmayan. Bu isim, Allah'ın müstağniliğini ifade eder.",
+    "amac": "Zenginlik ve müstağnilik için okunur.",
+    "zikirSayisi": 1060
+  },
+  {
+    "id": 88,
+    "name": "El-Muğni",
+    "text": "Dilediğini zengin eden. Bu isim, Allah'ın lütfunu gösterir.",
+    "amac": "Zenginlik ve bolluk için okunur.",
+    "zikirSayisi": 1100
+  },
+  {
+    "id": 89,
+    "name": "El-Mani",
+    "text": "Dilediğini engelleyen. Bu isim, Allah'ın kudretini ifade eder.",
+    "amac": "Engelleri aşmak için okunur.",
+    "zikirSayisi": 161
+  },
+  {
+    "id": 90,
+    "name": "Ed-Darr",
+    "text": "Zarar veren. Bu isim, Allah'ın kudretini gösterir.",
+    "amac": "Zararlardan korunmak için okunur.",
+    "zikirSayisi": 1001
+  },
+  {
+    "id": 91,
+    "name": "En-Nafi",
+    "text": "Fayda veren. Bu isim, Allah'ın lütfunu ifade eder.",
+    "amac": "Fayda ve bereket için okunur.",
+    "zikirSayisi": 201
+  },
+  {
+    "id": 92,
+    "name": "En-Nur",
+    "text": "Nur sahibi. Bu isim, Allah'ın aydınlatıcılığını gösterir.",
+    "amac": "Aydınlık ve bilgelik için okunur.",
+    "zikirSayisi": 256
+  },
+  {
+    "id": 93,
+    "name": "El-Hadi",
+    "text": "Hidayet veren. Bu isim, Allah'ın hidayetini ifade eder.",
+    "amac": "Hidayet ve doğru yolu bulmak için okunur.",
+    "zikirSayisi": 20
+  },
+  {
+    "id": 94,
+    "name": "El-Bedi",
+    "text": "Eşsiz yaratan. Bu isim, Allah'ın yaratıcılığını gösterir.",
+    "amac": "Yaratıcılık ve yenilik için okunur.",
+    "zikirSayisi": 86
+  },
+  {
+    "id": 95,
+    "name": "El-Baki",
+    "text": "Ebedi olan. Bu isim, Allah'ın ebediliğini ifade eder.",
+    "amac": "Ebediyet ve sonsuzluk için okunur.",
+    "zikirSayisi": 113
+  },
+  {
+    "id": 96,
+    "name": "El-Varis",
+    "text": "Her şeyin gerçek varisi. Bu isim, Allah'ın hakimiyetini gösterir.",
+    "amac": "Miras ve hakimiyet için okunur.",
+    "zikirSayisi": 707
+  },
+  {
+    "id": 97,
+    "name": "Er-Reşid",
+    "text": "Doğru yolu gösteren. Bu isim, Allah'ın hidayetini ifade eder.",
+    "amac": "Doğru yolu bulmak için okunur.",
+    "zikirSayisi": 514
+  },
+  {
+    "id": 98,
+    "name": "Es-Sabur",
+    "text": "Çok sabırlı. Bu isim, Allah'ın sabrını gösterir.",
+    "amac": "Sabır ve dayanıklılık için okunur.",
+    "zikirSayisi": 298
+  },
+  {
+    "id": 99,
+    "name": "El-Mecid",
+    "text": "Şanı yüce, şerefli. Bu isim, Allah'ın yüceliğini ifade eder.",
+    "amac": "Şeref ve izzet için okunur.",
+    "zikirSayisi": 48
+  }
+]

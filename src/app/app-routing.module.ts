@@ -3,12 +3,12 @@ import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   {
-    path: 'home',
-    loadChildren: () => import('./home/home.module').then( m => m.HomePageModule)
+    path: 'zikirmatik',
+    loadChildren: () => import('./UI/zikirmatik/zikirmatik.module').then(m => m.ZikirmatikModule)
   },
   {
     path: '',
-    redirectTo: 'home',
+    redirectTo: 'zikirmatik',
     pathMatch: 'full'
   },
 ];
